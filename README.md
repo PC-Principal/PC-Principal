@@ -1,6 +1,6 @@
-💻 Hi!
+## 👋 Welcome
 
-I'm a Fullstack developer with over 10 years of experience. I specialize in backend development but also actively use frontend and CI/CD. Recently, I've been diving deeper into AI model development and integration.
+I'm a Fullstack developer with over 10 years of experience. I specialize in backend development but also actively use frontend and CI/CD. Recently, I've been diving deeper into **AI model development** and integration.
 
 **🛠️ Tech Stack**
 
