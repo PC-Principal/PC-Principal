@@ -1,16 +1,25 @@
-## Hi there 👋
+💻 Hi!
 
-<!--
-**PC-Principal/PC-Principal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack developer with over 10 years of experience. I specialize in backend development but also actively use frontend and CI/CD. Recently, I've been diving deeper into AI model development and integration.
 
-Here are some ideas to get you started:
+**🛠️ Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Backend: PHP (Yii1/2, Laravel), Python
+
+✅ Frontend: JavaScript, Vue.js
+
+✅ Databases: PostgreSQL, MySQL
+
+✅ DevOps: CI/CD, Docker
+
+✅ AI & Automation: LLM Engineering, Make, Voiceflow, 8n8
+
+**🚀 What I'm working on now?**
+
+✅ Consulting on AI model integration and automation
+
+✅ Developing and optimizing Telegram bots
+
+✅ Automating processes in e-commerce
+
+✅ Exploring new possibilities in generative AI
